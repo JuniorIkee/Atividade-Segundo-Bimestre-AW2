@@ -1,7 +1,1 @@
-nome: teste1 - Consumo mensal(Kw/h):0.124 - consFinal: 0.992
-nome: teste2 - Consumo mensal(Kw/h):0.031 - consFinal: 1.023
-nome: teste3 - Consumo mensal(Kw/h):0.031 - consFinal: 1.054
-nome: teste4 - Consumo mensal(Kw/h):0.124 - consFinal: 1.178
-nome: teste5 - Consumo mensal(Kw/h):0.124 - consFinal: 1.302
-nome: teste6 - Consumo mensal(Kw/h):0.031 - consFinal: 1.333
-nome: teste7 - Consumo mensal(Kw/h):0.031 - consFinal: 1.364
+
